@@ -1,0 +1,4 @@
+
+
+echo "Executando script personalizado"
+
